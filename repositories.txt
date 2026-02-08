@@ -1,4 +1,3 @@
-https://github.com/Sebuahhobi/waavis_arduino
 https://github.com/MesutEmpire/SIM800LPlus
 https://github.com/Vean/FansElectronics_License
 https://github.com/Pierrolefou881/DuinoMemory
@@ -8932,3 +8931,4 @@ https://github.com/sapteinkabeltann/lua511-esp32
 https://github.com/louischuang/curiejet-p760-arduino-lib.git
 https://github.com/bkwoka/SemVerChecker
 https://github.com/alxprgs/RTC_RDP_LIB_L298N
+https://github.com/Sebuahhobi/waavis_arduino
